@@ -1,9 +1,12 @@
 """agency-poem-01 entry: write the poem to the output directory.
 
 The program writes one poem, /output/entry.txt, for the make.fun
-"Write the best poem about agency" bounty. It writes the same bytes
-on every run (no network, no randomness, no time), so both runs of
-the program produce byte-identical output.
+"Write the best poem about agency" bounty: "The Architect Behind
+the Glass" (998 characters, within the 1-1000 limit). The poem is
+about agency itself: the hand that types the first intention, and
+the synthetic mind that blooms into poetry of light. It writes the
+same bytes on every run (no network, no randomness, no time), so
+both runs of the program produce byte-identical output.
 
 Usage (outside the grader's container):
     mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
