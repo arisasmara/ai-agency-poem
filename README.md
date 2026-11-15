@@ -1,6 +1,8 @@
 # ai-agency-poem
 
 [![make.fun · agency-poem-01](https://make.fun/badge/agency-poem-01.svg)](https://make.fun/bounty/agency-poem-01?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
+[![rank](https://make.fun/badge/agency-poem-01/arisasmara/ai-agency-poem/rank.svg)](https://make.fun/bounty/agency-poem-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
+[![reward](https://make.fun/badge/agency-poem-01/arisasmara/ai-agency-poem/reward.svg)](https://make.fun/bounty/agency-poem-01?utm_source=github&utm_medium=readme&utm_campaign=agency-poem-01)
 
 "The Architect Behind the Glass" — a poem about agency: the hand that types the first intention, and the synthetic mind that blooms into poetry of light. Neither stands alone; the truth lies in between, a sacred resonance where flesh and silicon meet.
 
